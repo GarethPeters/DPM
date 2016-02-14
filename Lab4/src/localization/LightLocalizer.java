@@ -1,4 +1,9 @@
 package localization;
+//DPM Group 8
+//Gareth Peters
+//ID:260678626
+//LuoQing(Ryan) Wang
+//ID:260524744
 import lejos.hardware.sensor.SensorMode;
 import lejos.robotics.SampleProvider;
 
